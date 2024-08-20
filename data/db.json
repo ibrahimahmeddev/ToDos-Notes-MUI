@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": "1"
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": "2"
+    },
+    {
+      "id": "6ae8",
+      "title": "Material UI Net Ninja",
+      "details": "study today ",
+      "category": "reminders"
+    },
+    {
+      "id": "3",
+      "title": "Grocery Shopping",
+      "category": "todos",
+      "details": "Buy milk, bread, and eggs"
+    },
+    {
+      "id": "4",
+      "title": "Work Meeting",
+      "category": "work",
+      "details": "Discuss project milestones with the team"
+    },
+    {
+      "id": "5",
+      "title": "Birthday Party",
+      "category": "personal",
+      "details": "Prepare for Sarah's birthday party"
+    },
+    {
+      "id": "6",
+      "title": "Fitness Routine",
+      "category": "todos",
+      "details": "Morning workout - cardio and strength training"
+    },
+    {
+      "id": "7",
+      "title": "Client Presentation",
+      "category": "work",
+      "details": "Finalize slides and practice presentation"
+    },
+    {
+      "id": "8",
+      "title": "Read New Book",
+      "category": "personal",
+      "details": "Start reading 'Atomic Habits' by James Clear"
+    }
+  ]
+}
